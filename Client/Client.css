@@ -1,0 +1,13 @@
+body {
+    background-color: lightblue;
+}
+
+h1 {
+    margin-left: 30px;
+}
+
+#devTag{
+	color: #ff3300;
+	font-style: italic;
+	font-size: 20px;
+}
