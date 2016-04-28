@@ -1,0 +1,6 @@
+Name=Transformers.2009
+ChunkLength=4
+ChunkSize=495
+Duration=1977
+BitOption=4
+BitRate=1000,2000,4000,8000
